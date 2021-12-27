@@ -1,3 +1,6 @@
+# Sourced from https://github.com/N-able/CustomMonitoring/tree/master/Vulnerability%20-%20CVE-2021-44228%20(Log4j)
+
+
 Name: get-log4jrcevulnerability.ps1
 
 Version: 0.2.4.3 (23rd December 2021)
